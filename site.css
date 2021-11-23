@@ -1,0 +1,17 @@
+body{
+    background-color: lightgrey;
+}
+div{  
+    width: 200px;
+    height: 200px;
+    margin: auto;  
+}
+img{
+    border-radius: 50%;
+    width: 100px;
+    margin-left: 50px;   
+}
+p{
+    text-align: center;
+}
+
